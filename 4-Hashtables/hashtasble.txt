@@ -1,0 +1,3 @@
+they are key value pairs, make looks up easier, 
+
+unordered data types
